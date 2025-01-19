@@ -1,2 +1,2 @@
-# to-do-fullstack
-A full stack to app built with spring boot for the back end  
+# to-do-full-stack
+A full stack app to built with spring boot for the back end  
